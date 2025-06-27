@@ -180,4 +180,3 @@ bootstrap();
 - ### [zod-dto](https://github.com/kbkk/abitia/tree/master/packages/zod-dto)
 
   Extensive use and inspiration from zod-dto.
-  
